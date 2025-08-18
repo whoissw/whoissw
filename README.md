@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
--   👨‍💻 I'm currently working at **Atlantis Group**
--   🌱 I'm constantly learning and exploring new technologies
--   💡 I love solving complex problems and creating innovative solutions
--   🎯 Always focused on delivering high-quality code and user experiences
--   📫 How to reach me: **rafaelsesanaperdiz@gmail.com**
+-   💼 Developer at **Atlantis Group**
+-   🔍 Always learning new technologies
+-   🧠 Problem-solver, driven by innovation
+-   🎯 Delivering clean code & great user experiencies
+-   📩 Contact: **rafaelsesanaperdiz@gmail.com**
 
 ---
 
