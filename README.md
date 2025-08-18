@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Rafael Sesana</h1>
-<h3 align="center">A Full-Stack Developer Ready for Solutions</h3>
+<h1 align="center">👋 Hi, I'm Rafael Sesana</h1>
+<h3 align="center">💻 Full-Stack Developer | Problem Solver | Tech Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Problem+Solver;Code+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -101,11 +101,10 @@
 
 ## 🎯 Current Goals
 
--   🚀 Contributing to open source projects
--   📚 Learning about new technologies and frameworks
--   🌟 Building innovative solutions that make a difference
--   🤝 Collaborating with other developers and sharing knowledge
-
+-   🚀 Contributing to open source
+-   📖 Exploring new technologies & frameworks
+-   💡 Creating solutions that matter
+-   🤝 Sharing knowledge & collaborating with developers
 ---
 
 <div align="center">
