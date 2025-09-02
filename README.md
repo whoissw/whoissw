@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
--   💼 Developer at **Atlantis Group**
+-   💼 Developer at **Maldivas**
 -   🔍 Always learning new technologies
 -   🧠 Problem-solver, driven by innovation
 -   🎯 Delivering clean code & great user experiencies
