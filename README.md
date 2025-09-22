@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
--   💼 Developer at **Maldivas**
+-   💼 Developer at **Wins Vue**
 -   🔍 Always learning new technologies
 -   🧠 Problem-solver, driven by innovation
 -   🎯 Delivering clean code & great user experiencies
